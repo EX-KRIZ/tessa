@@ -1,10 +1,10 @@
-## Lana Bot V.3 ESM
+## Endi
 <img src="https://telegra.ph/file/2677c6ca6d9b2a372d009.jpg" alt="LANA" width="360" />
 
 ---
 
 ## Information
-> Lana bot adalah script bot untuk public , yang di kembangkan oleh [Lana Dev](https://youtube.com/@maulanabot) , dan awal mula memakai base dari [Amelia-Botz](http://youtube.com/officialdittaz) .
+> endi bot adalah script bot untuk public , yang di kembangkan oleh [Lana Dev](https://youtube.com/@maulanabot) , dan awal mula memakai base dari [Amelia-Botz](http://youtube.com/officialdittaz) .
 > Jika kamu menemukan semacam bug, harap untuk dimaklumi sementara
 
 ## Connect With Me
@@ -33,7 +33,7 @@
 - [Gopay](https://)
 
 # Official Group 
-- [LANA BOT](https://chat.whatsapp.com/JgJHpvM7K6UAYVlT2zQPFA)
+- [LANA BOT](https://chat.whatsapp.com/JgJHpvM7KUAYVlT2zQPFA)
 
 # Thanks to
  <a href="https://github.com/hexagonz"><img src="https://https://github.com/hexagonz.png?size=100" width="100" height="100"></a> | [![FERDIZ](https://github.com/hexagonz.png?size=100)](https://github.com/hexagonz-afk) | [![RASHID](https://github.com/hexagonz.png?size=100)](https://github.com/hexagonz) 
